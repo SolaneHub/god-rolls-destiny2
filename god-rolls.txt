@@ -4,26 +4,14 @@
 // Rank 1
 
 //notes:Handling + Backup Mag|tags:PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-
-//Field Prep + One-Two Punch
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2679249093
-//Field Prep + Trench Barrel
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2360754333
-//Field Prep + Vorpal Weapon
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,1546637391
-
-//Pugilist + One-Two Punch
 dimwishlist:item=1298672084&perks=1300023272,1087426260,691659142,2679249093
-//Pugilist + Trench Barrel
 dimwishlist:item=1298672084&perks=1300023272,1087426260,691659142,2360754333
-//Pugilist + Vorpal Weapon
 dimwishlist:item=1298672084&perks=1300023272,1087426260,691659142,1546637391
-
-//Threat Detector + One-Two Punch
 dimwishlist:item=1298672084&perks=1300023272,1087426260,4071163871,2679249093
-//Threat Detector + Trench Barrel
 dimwishlist:item=1298672084&perks=1300023272,1087426260,4071163871,2360754333
-//Threat Detector + Vorpal Weapon
 dimwishlist:item=1298672084&perks=1300023272,1087426260,4071163871,1546637391
 
 // Tier S

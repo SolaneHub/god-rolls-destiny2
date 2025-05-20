@@ -1,9 +1,9 @@
 // Shotguns
+// Perfect Paradox
 // Tier S
 // Rank 1
 
-// Perfect Paradox
-//notes:MW: Handling + Backup Mag
+//notes:Handling + Backup Mag
 
 //Field Prep + One-Two Punch
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2679249093
@@ -37,7 +37,7 @@ dimwishlist:item=1298672084&perks=1300023272,106909392,2869569095,1546637391
 // Tier S
 // Rank 2
 // Unvoiced
-dimwishlist:item=3360937899&perks=1840239774,791862061,1089671869,1298135794
+dimwishlist:item=3360937899&perks=1840239774,791862061,3201496230,1089671869
 
 // Tier S
 // Rank 3

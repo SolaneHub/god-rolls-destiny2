@@ -1,8 +1,7 @@
 // Shotguns
-// Perfect Paradox
 // Tier S
 // Rank 1
-
+// Perfect Paradox
 //notes:Handling + Backup Mag|tags:PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2679249093
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2360754333

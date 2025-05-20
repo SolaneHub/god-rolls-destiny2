@@ -1,6 +1,6 @@
 // Shotguns
 // Perfect Paradox
-dimwishlist:item=1298672084&perks=1300023272,3142289711,691659142,2679249093#notes:pvp or gambit
+dimwishlist:item=1298672084&perks=2838996248
 
 
 dimwishlist:item=2575844666&perks=1840239774,106909392,124408337,1955165503

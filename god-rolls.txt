@@ -2,7 +2,7 @@
 // Tier S
 // Rank 1
 // Perfect Paradox
-dimwishlist:item=1298672084&perks=2869569095,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1300023272,1087426260,2308090567,788178929,2838996248
 // Tier S
 // Rank 2
 // Unvoiced

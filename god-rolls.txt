@@ -1,9 +1,15 @@
 // Shotguns
 // Tier S
 // Rank 1
+
 // Perfect Paradox
+//notes:MW: Handling + Backup Mag
+
+//Field Prep + One-Two Punch
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2679249093
+//Field Prep + Trench Barrel
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,2360754333
+//Field Prep + Vorpal Weapon
 dimwishlist:item=1298672084&perks=1300023272,1087426260,2869569095,1546637391
 
 //Pugilist + One-Two Punch

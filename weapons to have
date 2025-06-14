@@ -1,113 +1,169 @@
 SHOTGUNS
 	Aggressive
 		Imperial Decree (Kinetic) ✅
-		A Sudden Death (Void)
+		A Sudden Death (Void) ✅
 	Heavy burst
 		--------------------
-		Arcane Embrace (Arc)
+		Arcane Embrace (Arc) ❌
 	Lightweight
-		Swordbreaker (Strand)
-		Retrofuturist (Void)
+		Swordbreaker (Strand) ✅
+		Retrofuturist (Void) ❌
 	Precision
-		Someday (Kinetic)
-		Prophet of Doom (Arc)
+		Someday (Kinetic) ✅
+		Prophet of Doom (Arc) ✅
 	Rapid-Fire
-		Perfect Paradox (Kinetic)
-		IKELOS_SG_v1.0.3 (Solar)
+		Perfect Paradox (Kinetic) ✅
+		IKELOS_SG_v1.0.3 (Solar) ❌
 	Slug
-		Heritage (Kinetic)
-		Unvoiced (Void)
+		Heritage (Kinetic) ✅
+		Unvoiced (Void) ❌
 
 SNIPERS
 	Adaptive
-		Tranquility (Kinetic)
-		Sovereignty (Void)
+		Tranquility (Kinetic) ❌
+		Sovereignty (Void) ❌
 	Aggressive
-		Critical Anomaly (Stasis)
-		Keen Thistle (Solar) {Trials Of Osiris}
-		Veleda-F (Void)
+		Critical Anomaly (Stasis) ❌
+		Keen Thistle (Solar) {Trials Of Osiris} ❌
+		Veleda-F (Void) ✅
 	Rapid-Fire
-		Praedyth's Revenge (Kinetic)
-		Omniscient Eye (Solar)
+		Praedyth's Revenge (Kinetic) ✅
+		Omniscient Eye (Solar) ✅
 
 FUSIONS
 	Aggressive
-		Resounding (Strand)
-		Cruoris FR4 (Arc)
+		Resounding (Strand) ✅
+		Cruoris FR4 (Arc) ❌
 	Adaptive
-		Pressurized Precision (Strand)
-		Royal Executioner (Solar)
+		Pressurized Precision (Strand) ❌
+		Royal Executioner (Solar) ✅
 	High-Impact
-		Nox Perennial V (Strand)
-		Glacioclasm (Void)
+		Nox Perennial V (Strand) ❌
+		Glacioclasm (Void) ❌
 	Precision
-		Deliverance (Stasis)
-		PLUG ONE.1 (Arc)
+		Deliverance (Stasis) ❌
+		PLUG ONE.1 (Arc) ✅
 	Rapid-Fire
-		Scatter Signal (Strand)
-		Zealot's Reward (Void)
+		Scatter Signal (Strand) ✅
+		Zealot's Reward (Void) ✅
 
 BGL
 	Area Denial
-		Lost Signal (Stasis)
-		VS Velocity Baton (Void)
+		Lost Signal (Stasis) ✅
+		VS Velocity Baton (Void) ✅
 	Double Fire
-		Liturgy (Stasis)
-		Wilderflight (Void)
+		Liturgy (Stasis) ✅
+		Wilderflight (Void) ✅
 	Lightweight
-		The Militia's Birthright (Kinetic)
-		Empty Vessel (Solar)
+		The Militia's Birthright (Kinetic) ✅
+		Empty Vessel (Solar) ❌
 	Micro-Missile
-		The Mountaintop (Kinetic)
+		The Mountaintop (Kinetic) ✅
 		-----------------------
 	Wave
-		New Pacific Epitaph (Stasis)
-		Martyr's Retribution (Solar)
+		New Pacific Epitaph (Stasis) ✅
+		Martyr's Retribution (Solar) ✅
 
 GLAIVES
 	Adaptive
-		Refusal of the Call (Strand)
-		Unexpected Resurgence (Arc) {Trials Of Osiris}
-		Nezarec's Whisper (Arc)
+		Refusal of the Call (Strand) ✅
+		Unexpected Resurgence (Arc) {Trials Of Osiris} ❌
+		Nezarec's Whisper (Arc) ❌
 	Aggressive
-		Rake Angle (Stasis)
-		Albedo Wing (Arc)
+		Rake Angle (Stasis) ✅
+		Albedo Wing (Arc) ❌
 	Rapid-Fire
 		--------------------------
-		Forthcoming Deviance (Void)
+		Forthcoming Deviance (Void) ❌
 
 TRACES
 	Adaptive
-		Unsworn (Strand)
-		Chronophage (Void)
+		Unsworn (Strand) ✅
+		Chronophage (Void) ✅
 
 ROCKET SIDEARMS
-	Tinasha's Mastery (Stasis)
-	Aberrant Action (Solar)
+	Tinasha's Mastery (Stasis) ✅
+	Aberrant Action (Solar) ✅
 
 LMG
 	Adaptive
-		Marcato-45 (Strand)
-		Commemoration (Void)
+		Marcato-45 (Strand) ❌
+		Commemoration (Void) ✅
 	Aggressive
-		Pro Memoria (Strand)
-		Corrective Measure (Void)
+		Pro Memoria (Strand) ✅
+		Corrective Measure (Void) ✅
 	High-Impact
-		Archon's Thunder (Stasis)
-		Terminus Horizon (Arc)
+		Archon's Thunder (Stasis) ❌
+		Terminus Horizon (Arc) ✅
 	Rapid-Fire
-		Recurrent Impact (Stasis)
-		Speleologist (Solar)
+		Recurrent Impact (Stasis) ✅
+		Speleologist (Solar) ✅
 
-BGL
+HGL
 	Adaptive
-		Wicked Sister (Strand)
-		Bitter/Sweet (Arc)
+		Wicked Sister (Strand) ❌
+		Bitter/Sweet (Arc) ✅
 	Compressed Wave
-		Dimensional Hypotrochoid (Stasis)
-		Hullabaloo (Arc)
+		Dimensional Hypotrochoid (Stasis) ✅
+		Hullabaloo (Arc) ✅
 	Rapid
-		Marsilion-C (Solar)
-		VS Chill Inhibitor (Stasis)
+		Marsilion-C (Solar) ❌
+		VS Chill Inhibitor (Stasis) ✅
 
-	
+SWORDS
+	Adaptive
+		Zephyr (Stasis) ❌
+		Bequest (Arc) ✅
+	Aggressive
+		--------------------------
+		Throne-Cleaver (Solar) ❌
+	Caster
+		Ill Omen (Stasis) ✅
+		Temptation's Hook (Arc) ❌
+	Lightweight
+		--------------------
+		Goldtusk (Arc) ✅
+	Vortex
+		The Slammer (Stasis) ✅
+		Falling Guillotine BRAVE version (Void) ✅
+	Wave
+		Abyssal Edge (Strand) ✅
+		Summum Bonum (Arc) ❌
+
+ROCKETS
+	Adaptive
+		Cynosure (Strand) ❌
+		Apex Predator (Solar) ✅
+	Aggressive
+		Cold Comfort (Stasis) ✅
+		Hezen Vengeance (Void) ✅
+	High-Impact
+		Semiotician (Strand) ✅
+		Tomorrow's Answer (Void) ✅
+	Precision
+		Crowning Duologue (Strand) ❌
+		Faith-Keeper (Void) ✅
+LFR
+	Adaptive Burst
+		Scintillation (Strand) ✅
+		Mistral Lift (Void) ❌
+	Precision
+		Suspectum-4fr (Stasis) ✅
+		Cataclysmic (Solar) ✅
+AUTORIFLE
+	Adaptive
+		Old Sterling (Strand) ❌
+		The Summoner (Solar) {Trials Of Osiris} ❌
+		VS Pyroelectric Propellant (Arc) ❌
+	High-Impact
+		False Promises (Stasis) ❌
+		Abyss Defiant (Solar) ✅
+	Precision
+		Origin Story (Kinetic) ❌
+		Prosecutor (Arc) ✅
+	Rapid-Fire
+		Veiled Threat (Stasis) ✅
+		Reckless Oracle (Void) ✅
+	Support
+		Adamantite (Strand) ✅
+		No Hesitation (Solar) ✅

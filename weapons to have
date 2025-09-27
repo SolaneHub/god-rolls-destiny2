@@ -1,173 +1,480 @@
-SHOTGUNS
-	Aggressive
-		Imperial Decree (Kinetic) ✅
-		A Sudden Death (Void) ✅
-	Heavy burst
-		--------------------
-		Pure Recollection (Void) ❌
-	Lightweight
-		Swordbreaker (Strand) ✅
-		Retrofuturist (Void) ❌
-	Precision
-		Someday (Kinetic) ✅
-		Precipial (Void) ❌
+			Kinetic
+				
+			Stasis
+				
+			Strand
+				
+			Arc
+				
+			Solar
+				
+			Void
 
-	Pinpoint Slug
-		Heritage (Kinetic) ✅
-		Unvoiced (Void) ❌
-	Rapid
-		Perfect Paradox (Kinetic) ✅
-		IKELOS_SG_v1.0.3 (Solar) ❌
-	Rapid Slug
-		Trachinus (Stasis) ❌
-		---------------------
 
-SNIPERS
+AUTO RIFLE
 	Adaptive
-		Tranquility (Kinetic) ❌
-		Sovereignty (Void) ❌
-	Aggressive
-		Critical Anomaly (Stasis) ❌
-		Keen Thistle (Solar) {Trials Of Osiris} ❌
-		Veleda-F (Void) ✅
-	Rapid-Fire
-		Praedyth's Revenge (Kinetic) ✅
-		Omniscient Eye (Solar) ✅
+			Kinetic
+				The Last Breath
+			Stasis
+				Intercalary
+			Strand
+				Old Sterling (Strand)
+			Arc
+				VS Pyroelectric Propellant
+			Solar
+				The Summoner 
+			Void
+				Ros Arago IV
 
-FUSIONS
-	Aggressive
-		Resounding (Strand) ✅
-		Cruoris FR4 (Arc) ❌
-	Adaptive
-		Pressurized Precision (Strand) ❌
-		Royal Executioner (Solar) ✅
 	High-Impact
-		Nox Perennial V (Strand) ❌
-		Glacioclasm (Void) ❌
+			Kinetic
+				Lodbrok-C
+			Stasis
+				False Promises
+			Strand
+				Lethal Abundance
+			Arc
+				Come to Pass
+			Solar
+				Abyss Defiant
+			Void
+				Age-Old Bond
+
 	Precision
-		Deliverance (Stasis) ❌
-		PLUG ONE.1 (Arc) ✅
-	Rapid-Fire
-		Scatter Signal (Strand) ✅
-		Zealot's Reward (Void) ✅
+			Kinetic
+				Origin Story
+			Stasis
+				Fair Judgment
+			Strand
+				Auric Disabler
+			Arc
+				Prosecutor RotN
+			Solar
+				Ammit AR2
+			Void
+				Positive Outlook
 
-BGL
-	Area Denial
-		Lost Signal (Stasis) ✅
-		VS Velocity Baton (Void) ✅
-	Double Fire
-		Liturgy (Stasis) ✅
-		Wilderflight (Void) ✅
-	Lightweight
-		The Militia's Birthright (Kinetic) ✅
-		Empty Vessel (Solar) ❌
-	Micro-Missile
-		The Mountaintop (Kinetic) ✅
-		-----------------------
-	Wave
-		New Pacific Epitaph (Stasis) ✅
-		Martyr's Retribution (Solar) ✅
+	Rapid Fire
+			Kinetic
+				Everburning Glitz
+			Stasis
+				Veiled Threat
+			Strand
+				Rufus's Fury
+			Arc
+				Dark Decider
+			Solar
+				Ahab Char
+			Void
+				Reckless Oracle
 
-GLAIVES
-	Adaptive
-		Refusal of the Call (Strand) ✅
-		Unexpected Resurgence (Arc) {Trials Of Osiris} ❌
-		Nezarec's Whisper (Arc) ❌
-	Aggressive
-		Rake Angle (Stasis) ✅
-		Albedo Wing (Arc) ❌
-	Rapid-Fire
-		--------------------------
-		Forthcoming Deviance (Void) ❌
-
-TRACES
-	Adaptive
-		Unsworn (Strand) ✅
-		Chronophage (Void) ✅
-
-ROCKET SIDEARMS
-	Tinasha's Mastery (Stasis) ✅
-	Aberrant Action (Solar) ✅
-
-LMG
-	Adaptive
-		Marcato-45 (Strand) ❌
-		Commemoration (Void) ✅
-	Aggressive
-		Pro Memoria (Strand) ✅
-		Corrective Measure (Void) ✅
-	High-Impact
-		Archon's Thunder (Stasis) ❌
-		Terminus Horizon (Arc) ✅
-	Rapid-Fire
-		Recurrent Impact (Stasis) ✅
-		Speleologist (Solar) ✅
-
-HGL
-	Adaptive
-		Wicked Sister (Strand) ❌
-		Bitter/Sweet (Arc) ✅
-	Compressed Wave
-		Dimensional Hypotrochoid (Stasis) ✅
-		Hullabaloo (Arc) ✅
-	Rapid
-		Marsilion-C (Solar) ❌
-		VS Chill Inhibitor (Stasis) ✅
-
-SWORDS
-	Adaptive
-		Zephyr (Stasis) ❌
-		Bequest (Arc) ✅
-	Aggressive
-		--------------------------
-		Throne-Cleaver (Solar) ❌
-	Caster
-		Ill Omen (Stasis) ✅
-		Temptation's Hook (Arc) ❌
-	Lightweight
-		--------------------
-		Goldtusk (Arc) ✅
-	Vortex
-		The Slammer (Stasis) ✅
-		Falling Guillotine BRAVE version (Void) ✅
-	Wave
-		Abyssal Edge (Strand) ✅
-		Summum Bonum (Arc) ❌
-
-ROCKETS
-	Adaptive
-		Cynosure (Strand) ❌
-		Apex Predator (Solar) ✅
-	Aggressive
-		Cold Comfort (Stasis) ✅
-		Hezen Vengeance (Void) ✅
-	High-Impact
-		Semiotician (Strand) ✅
-		Tomorrow's Answer (Void) ✅
-	Precision
-		Crowning Duologue (Strand) ❌
-		Faith-Keeper (Void) ✅
-LFR
-	Adaptive Burst
-		Scintillation (Strand) ✅
-		Mistral Lift (Void) ❌
-	Precision
-		Suspectum-4fr (Stasis) ✅
-		Cataclysmic (Solar) ✅
-AUTORIFLE
-	Adaptive
-		Old Sterling (Strand) ❌
-		The Summoner (Solar) {Trials Of Osiris} ❌
-		VS Pyroelectric Propellant (Arc) ❌
-	High-Impact
-		False Promises (Stasis) ❌
-		Abyss Defiant (Solar) ✅
-	Precision
-		Origin Story (Kinetic) ❌
-		Prosecutor (Arc) ✅
-	Rapid-Fire
-		Veiled Threat (Stasis) ✅
-		Reckless Oracle (Void) ✅
 	Support
-		Adamantite (Strand) ✅
-		No Hesitation (Solar) ✅
+			Kinetic
+				
+			Stasis
+				
+			Strand
+				Adamantite
+			Arc
+				
+			Solar
+				No Hesitation
+			Void
+				Cusp Sempiternal
+
+
+BOWS
+	High-Impact Longbow
+			Kinetic
+				Mercury-A
+			Stasis
+				
+			Strand
+				
+			Arc
+				
+			Solar
+				
+			Void
+
+
+	Lightweight
+			Kinetic
+				Fel Taradiddle
+			Stasis
+				Lunulata-4B
+			Strand
+				
+			Arc
+				Tripwire Canary
+			Solar
+				Tyranny of Heaven
+			Void
+				Fortunate Star
+
+	Precision
+			Kinetic
+				Accrued Redemption
+			Stasis
+				Raconteur
+			Strand
+				Hushed Whisper
+			Arc
+				Non-Denouement
+			Solar
+				Pre Astyanax IV
+			Void
+				Under Your Skin
+
+
+HAND CANNON
+	Adaptive
+			Kinetic
+				Midnight Coup
+			Stasis
+				Judgment RotN
+			Strand
+				Better Devils
+			Arc
+				Nation of Beasts
+			Solar
+				Zaouli's Bane
+			Void
+				Exalted Truth
+
+	Aggressive
+			Kinetic
+				Malediction
+			Stasis
+				Exuviae
+			Strand
+				Round Robin
+			Arc
+				Combined Action
+			Solar
+				Igneous Hammer
+			Void
+				Targeted Redaction
+
+	Heavy Burst
+			Kinetic
+				Warden's Law
+			Stasis
+				Bold Endings
+			Strand
+				Unloved
+			Arc
+				Yesterday's Question
+			Solar
+				Agape
+			Void
+				Maahes HC4
+
+	Lightweight
+			Kinetic
+				Rose
+			Stasis
+				
+			Strand
+				
+			Arc
+				
+			Solar
+				
+			Void
+
+
+	Precision
+			Kinetic
+				Seventh Seraph Officer Revolver
+			Stasis
+				Solemn Remembrance
+			Strand
+				
+			Arc
+				Posterity
+			Solar
+				Luna's Howl
+			Void
+				Word of Crota
+
+	Spread Shot
+			Kinetic
+				Aureus Neutralizer
+			Stasis
+				
+			Strand
+				
+			Arc
+				
+			Solar
+				Phoneutria Fera
+			Void
+
+
+PULSE RIFLE
+	Adaptive
+			Kinetic
+				Bygones
+			Stasis
+				Syncopation-53
+			Strand
+				Last Thursday
+			Arc
+				Vantage Point
+			Solar
+				Adhortative
+			Void
+				Yesteryear
+
+	Aggressive Burst
+			Kinetic
+				Blast Furnace
+			Stasis
+				Disparity
+			Strand
+				Belisarius-D
+			Arc
+				Insidious
+			Solar
+				
+			Void
+				Veles-X
+
+	Heavy Burst
+			Kinetic
+				
+			Stasis
+				
+			Strand
+				Aisha's Care
+			Arc
+				Corrasion
+			Solar
+				Nullify
+			Void
+				Joxer's Longsword
+
+	High-Impact
+			Kinetic
+				The Messenger
+			Stasis
+				Psi Hermetic V
+			Strand
+				Relentless RotN
+			Arc
+				Phyllotactic Spiral
+			Solar
+				Stars in Shadow
+			Void
+				Elsie's Rifle
+
+	Legacy PR-55
+			Kinetic
+				
+			Stasis
+				Redrix's Estoc
+			Strand
+				
+			Arc
+				
+			Solar
+				BxR-55 Battler
+			Void
+
+
+	Lightweight
+			Kinetic
+				Chattering Bone
+			Stasis
+				Stay Frosty
+			Strand
+				Nightshade
+			Arc
+				
+			Solar
+				Ogma PR6
+			Void
+
+
+	Rapid
+			Kinetic
+				Autumn Wind
+			Stasis
+				
+			Strand
+				Different Times
+			Arc
+				Oversoul Edict
+			Solar
+				Jurassic Green
+			Void
+				Gridskipper
+
+SCOUT RIFLE
+	Aggressive
+			Kinetic
+				Last Rite
+			Stasis
+				The Prophet
+			Strand
+				
+			Arc
+				Long Arm RotN
+			Solar
+				Timeworn Wayfarer
+			Void
+
+	High-Impact
+			Kinetic
+				Imperative
+			Stasis
+				Jurisprudent
+			Strand
+				The Guiding Sight
+			Arc
+				Sublimation
+			Solar
+				
+			Void
+				Admetus-D
+
+	Lightweight
+			Kinetic
+				Patron of Lost Causes
+			Stasis
+				Red Tape
+			Strand
+				Taraxippos
+			Arc
+				Tarnished Mettle
+			Solar
+				Nature Reclaimed
+			Void
+				Vouchsafe
+
+	Precision
+			Kinetic
+				Forced Memorializer
+			Stasis
+				Live Fire
+			Strand
+				Glissando-47
+			Arc
+				Adverse Possession IX
+			Solar
+				Vision of Confluence
+			Void
+				Doom of Chelchis
+
+	Rapid
+			Kinetic
+				Randy's Throwing Knife
+			Stasis
+				Jararaca-3SR
+			Strand
+				Fang of Ir Yût
+			Arc
+				Unworthy
+			Solar
+				Trustee
+			Void
+				Aisha's Embrace
+
+SIDEARM
+	Adaptive
+			Kinetic
+				Buzzard
+			Stasis
+				
+			Strand
+				
+			Arc
+				The Keening
+			Solar
+				
+			Void
+
+
+	Adaptive Burst
+			Kinetic
+				High Albedo
+			Stasis
+				Peacebond
+			Strand
+				
+			Arc
+				The Vision
+			Solar
+				
+			Void
+
+
+	Heavy Burst
+			Kinetic
+				
+			Stasis
+				Liminal Vigil RotN
+			Strand
+				Breachlight
+			Arc
+				Forgiveness
+			Solar
+				
+			Void
+				Brass Attacks
+
+	Lightweight
+			Kinetic
+				Spoiler Alert
+			Stasis
+				Faustus Decline
+			Strand
+				
+			Arc
+				Anonymous Autumn
+			Solar
+				Heliocentric QSc
+			Void
+				Seventh Seraph SI-2
+
+	Precision
+			Kinetic
+				Boudica-C
+			Stasis
+				
+			Strand
+				
+			Arc
+				
+			Solar
+				
+			Void
+				Insurmountable
+
+	Rapid
+			Kinetic
+				
+			Stasis
+				
+			Strand
+				Mykel's Reverence
+			Arc
+				Brigand's Law
+			Solar
+				Punching Out
+			Void
+				Fioritura-59
+
+	Together Forever
+			Kinetic
+				
+			Stasis
+				
+			Strand
+				
+			Arc
+				
+			Solar
+				Drang
+			Void
